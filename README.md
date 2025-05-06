@@ -6,6 +6,7 @@
 A cross-platform shell implementation written in Rust that provides basic file system operations and unified package management across different operating systems.
 
 ![Mini Shell Screenshot](images/img.png)
+
 _Mini Shell running with package management_
 
 ## ✨ Features
