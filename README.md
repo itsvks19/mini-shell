@@ -1,5 +1,8 @@
 # Mini Shell
 
+> [!NOTE]
+> This project was created by me, as a learning exercise to explore and understand Rust, especially for building cross-platform CLI applications.
+
 A cross-platform shell implementation written in Rust that provides basic file system operations and unified package management across different operating systems.
 
 ![Mini Shell Screenshot](images/img.png)
