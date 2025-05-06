@@ -101,7 +101,7 @@ pkg list               - List available package managers
 ### Cargo
 
 ```bash
-cargo install mini-shell
+cargo install mini_shell
 ```
 
 ## 🔧 Configuration
